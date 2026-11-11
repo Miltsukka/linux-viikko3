@@ -72,7 +72,7 @@ cat > /var/www/html/viikko3/index.html <<EOF
     <h2>Komennot ja niiden toiminta</h2>
     <p>date: näyttää päivämäärän, kellonajan ja aikavyöhykkeen.</p>
     <p>uptime -p: näyttää palvelimen käynnissäoloajan.</p>
-    <p>df -P / | awk 'NR==2 {print $5}': näyttää juurilevyn käyttöprosentin.</p>
+    <p><code>df -P / | awk 'NR==2 {print &#36;5}'</code>: näyttää juurilevyn käyttöprosentin.</p>
     <p>free -m: näyttää RAM-muistin tiedot.</p>
 </section>
 
