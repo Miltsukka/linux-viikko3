@@ -99,6 +99,11 @@ cat > /var/www/html/viikko3/index.html <<EOF
     <p>Opin käyttämään Bash-skriptejä ja cron-ajastusta
     palvelimen tietojen automaattiseen päivittämiseen.</p>
 </section>
+<section>
+    <h2>GitHub</h2>
+    <p>Viikkotehtävän lähdekoodi ja cron-ajastus löytyvät GitHubista.</p>
+    <p><a href="https://github.com/Miltsukka/linux-viikko3">Katso lähdekoodi GitHubissa</a></p>
+</section>
 </body>
 </html>
 EOF
