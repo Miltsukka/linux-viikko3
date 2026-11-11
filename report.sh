@@ -100,11 +100,6 @@ cat > /var/www/html/viikko3/index.html <<EOF
     palvelimen tietojen automaattiseen päivittämiseen.</p>
 </section>
 <section>
-    <h2>GitHub</h2>
-    <p>Viikkotehtävän lähdekoodi ja cron-ajastus löytyvät GitHubista.</p>
-    <p><a href="https://github.com/Miltsukka/linux-viikko3">Katso lähdekoodi GitHubissa</a></p>
-</section>
-<section>
     <h2>Linux-viikkotehtävät</h2>
     <p><a href="/">Viikko 1 – Verkkopalvelin</a></p>
     <p><a href="/viikko2/">Viikko 2 – Flask-kävijälaskuri</a></p>
