@@ -104,6 +104,17 @@ cat > /var/www/html/viikko3/index.html <<EOF
     <p>Viikkotehtävän lähdekoodi ja cron-ajastus löytyvät GitHubista.</p>
     <p><a href="https://github.com/Miltsukka/linux-viikko3">Katso lähdekoodi GitHubissa</a></p>
 </section>
+<section>
+    <h2>Linux-viikkotehtävät</h2>
+    <p><a href="/">Viikko 1 – Verkkopalvelin</a></p>
+    <p><a href="/viikko2/">Viikko 2 – Flask-kävijälaskuri</a></p>
+    <p><a href="/viikko3/">Viikko 3 – Palvelimen tilaraportti</a></p>
+</section>
+
+<section>
+    <h2>GitHub – Lähdekoodi</h2>
+    <p><a href="https://github.com/Miltsukka/linux-viikko3">Viikon 3 lähdekoodi ja cron-ajastus GitHubissa</a></p>
+</section>
 </body>
 </html>
 EOF
